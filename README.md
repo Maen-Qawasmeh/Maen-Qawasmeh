@@ -87,3 +87,17 @@ A computer vision project focused on classifying Jordanian landmarks using PyTor
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Maen-Qawasmeh&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
+
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maen-qawasmeh-951ba0211/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maen-Qawasmeh)
+
+</div>
+
