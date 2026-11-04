@@ -71,3 +71,16 @@ A deep learning project exploring convolutional neural network architectures, da
 A computer vision project focused on classifying Jordanian landmarks using PyTorch, Transfer Learning, and CNN architectures.
 
 🔗 [View Project](https://github.com/Maen-Qawasmeh/JordanHeritageVision)
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maen-Qawasmeh&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maen-Qawasmeh&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
