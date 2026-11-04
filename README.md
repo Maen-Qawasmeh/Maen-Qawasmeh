@@ -75,12 +75,15 @@ A computer vision project focused on classifying Jordanian landmarks using PyTor
 
 ---
 
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maen-Qawasmeh&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Maen-Qawasmeh&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maen-Qawasmeh&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Maen-Qawasmeh&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
