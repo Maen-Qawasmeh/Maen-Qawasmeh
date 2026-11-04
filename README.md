@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Maen Qawasmeh 👋
 
-<!--
-**Maen-Qawasmeh/Maen-Qawasmeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Machine Learning | Deep Learning | Computer Vision | Generative AI
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate passionate about building intelligent, practical applications using Artificial Intelligence, Machine Learning, and Deep Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on developing end-to-end AI solutions, from data preprocessing and model training to evaluation and interactive applications.
+
+### 🚀 About Me
+
+- 🔭 Building projects in **Machine Learning, Computer Vision, NLP, and Generative AI**
+- 🌱 Exploring **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Graph Databases**
+- 🧠 Experienced with **Python, SQL, TensorFlow, PyTorch, and Scikit-learn**
+- 🎯 Interested in opportunities as an **AI Engineer, Machine Learning Engineer, Data Scientist, or Data Analyst**
+- 📍 Based in **Amman, Jordan**
